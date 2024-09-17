@@ -2,7 +2,8 @@
 
   <img align="right" alt="GIF" src="code.gif" width="1000" height="380" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Siddhesh+Talawadekar;Full+Stack+Web+Developer;MERN+Expert;Final+Year+B.Tech+Student+in+Computer+Engineering">
+<img src="https://readme-typing-svg.herokuapp.com?color=00CFFF&size=32&center=true&vCenter=true&width=700&height=70&lines=Welcome+to+my+GitHub+Profile!;I'm+Siddhesh+Talawadekar;Full+Stack+Web+Developer;MERN+Stack+Specialist;Passionate+about+Technologies;Fresher" alt="Professional GitHub Profile">
+
 </p>
 
 I am a dedicated **Full Stack Web Developer** currently in my final year of **B.Tech in Computer Engineering** at **Pimpri Chinchwad College of Engineering, Pune**. My expertise includes **MERN Stack**, **HTML, CSS, JavaScript, PHP, Ruby on Rails**, and basic knowledge of **cybersecurity** and **blockchain**. With a focus on building responsive, dynamic, and secure web applications, I aim to deliver high-quality solutions in a fast-paced environment. I also have hands-on experience with **Arduino Uno** and **Raspberry Pi** for IoT and embedded systems projects.
@@ -23,28 +24,30 @@ I am a dedicated **Full Stack Web Developer** currently in my final year of **B.
 <a href="https://leetcode.com/u/imSiddhesh_11" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Siddhesh's LeetCode" height="30" width="30" /></a>
 </p>
 </div>
-
 <h2 align="center">Key Technical Skills:</h2>
 <table align="center">
 <tr>
 <td><b>Programming Languages</b></td>
-<td> <a href="https://github.com/siddhesh11082002" >
-    <img src="https://skillicons.dev/icons?i=js,php,ruby" />
-</a> 
+<td> 
+  <a href="https://github.com/siddhesh11082002" >
+    <img src="https://skillicons.dev/icons?i=js,php,ruby,c,cpp,java,python" />
+  </a> 
 </td>
 </tr>
 
 <tr>
 <td><b>Frontend Development</b></td>
-<td> <a href="https://github.com/siddhesh11082002" >
-    <img src="https://skillicons.dev/icons?i=react,html,css" />
+<td> 
+  <a href="https://github.com/siddhesh11082002" >
+    <img src="https://skillicons.dev/icons?i=react,html,css,scss,javascript" />
   </a>
 </td>
 </tr>
 
 <tr>
 <td><b>Backend Development</b></td>
-<td> <a href="https://github.com/siddhesh11082002" >
+<td> 
+  <a href="https://github.com/siddhesh11082002" >
     <img src="https://skillicons.dev/icons?i=nodejs,express,ruby" />
   </a>
 </td>
@@ -52,37 +55,69 @@ I am a dedicated **Full Stack Web Developer** currently in my final year of **B.
 
 <tr>
 <td><b>CSS Frameworks</b></td>
-<td> <a href="https://github.com/siddhesh11082002" >
+<td> 
+  <a href="https://github.com/siddhesh11082002" >
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
     <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" />
-   </a>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><b>Frontend Frameworks</b></td>
+<td> 
+  <a href="https://github.com/siddhesh11082002" >
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
 </td>
 </tr>
 
 <tr>
 <td><b>Database Management</b></td>
-<td> <a href="https://github.com/siddhesh11082002" >
+<td> 
+  <a href="https://github.com/siddhesh11082002" >
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-   </a>
+  </a>
 </td>
 </tr>
 
 <tr>
 <td><b>Tools & Platforms</b></td>
-<td> <a href="https://github.com/siddhesh11082002" >
-    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
+<td> 
+  <a href="https://github.com/siddhesh11082002" >
+    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,eclipse,docker" />
     <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" />
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="GitBash" />
-   </a>
+    
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><b>Hosting Platforms</b></td>
+<td> 
+  <a href="https://github.com/siddhesh11082002" >
+    <img src="https://skillicons.dev/icons?i=vercel,firebase,github,aws" />
+  </a>
 </td>
 </tr>
 
 <tr>
 <td><b>IoT & Embedded Systems</b></td>
-<td> <a href="https://github.com/siddhesh11082002" >
+<td> 
+  <a href="https://github.com/siddhesh11082002" >
     <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />
     <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" />
-   </a>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><b>Game Development Tools</b></td>
+<td> 
+  <a href="https://github.com/siddhesh11082002" >
+    <img src="https://skillicons.dev/icons?i=unity,blender" />
+  </a>
 </td>
 </tr>
 
@@ -96,26 +131,34 @@ I am a dedicated **Full Stack Web Developer** currently in my final year of **B.
   <li><a href="https://www.hackerrank.com/profile/siddheshkt11">HackerRank Profile</a> - Focused on algorithms and data structures.</li>
   <li><a href="https://leetcode.com/u/imSiddhesh_11">LeetCode Profile</a> - Practicing problem-solving for interview preparation.</li>
 </ul>
+<h2 align="center" style="font-weight: bold;">💻 MY CODING ACTIVITY 💻</h2>
 
-<h2 align="center">My Coding Activity:</h2>
-
-<div align="center">
-<a href="https://github.com/siddhesh11082002">
-  <img  src="https://github-stats-lemon.vercel.app/api?username=siddhesh11082002&show_icons=true&hide_border=true&theme=react" alt="GitHub Stats">
-</a>
-<br>
-<a href="https://github.com/siddhesh11082002"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh11082002&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"></a>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh11082002&theme=react" alt="GitHub Streak Stats">
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://github.com/siddhesh11082002">
+    <img src="https://github-stats-lemon.vercel.app/api?username=siddhesh11082002&show_icons=true&hide_border=true&theme=react" alt="GitHub Stats" style="max-width: 100%;">
+  </a>
 </div>
 
-<br>
+<div align="center" style="margin-bottom: 20px;">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=siddhesh11082002&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%;">
+</div>
 
-<h2 align="center">Achievements & Trophies:</h2>
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://github.com/siddhesh11082002">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh11082002&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 100%;">
+  </a>
+</div>
+
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh11082002&theme=react" alt="GitHub Streak Stats" style="max-width: 100%;">
+</div>
+
+<h2 align="center" style="font-weight: bold;">🏆 Achievements & Trophies 🏆</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddhesh11082002&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=siddhesh11082002&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" style="max-width: 100%;">
 </div>
+
 
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=siddhesh11082002&limit=5&theme=dark&combine_all_yearly_contributions=true)
