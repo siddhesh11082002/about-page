@@ -18,7 +18,6 @@ I am a dedicated **Full Stack Web Developer** currently in my final year of **B.
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/siddheshkt11/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Siddhesh's LinkedIn" height="30" width="30" /></a>
-<a href="https://github.com/siddhesh11082002" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="Siddhesh's GitHub" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/siddheshkt11" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile.svg" alt="Siddhesh's CodeChef" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/profile/siddheshkt11" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="Siddhesh's HackerRank" height="30" width="30" /></a>
 <a href="https://leetcode.com/u/imSiddhesh_11" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Siddhesh's LeetCode" height="30" width="30" /></a>
