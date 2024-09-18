@@ -132,6 +132,11 @@
 
 <h2 align="center" style="font-weight: bold;">💻 MY CODING ACTIVITY 💻</h2>
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczcxanpsdWh0cTR2aWc3eWxnem4xNmNsd2kwZjZxamdvenQ5dHppYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding GIF" width="800" height="400">
+</div>
+
+
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://github.com/siddhesh11082002">
     <img src="https://github-stats-lemon.vercel.app/api?username=siddhesh11082002&show_icons=true&hide_border=true&theme=react" alt="GitHub Stats" style="max-width: 100%;">
